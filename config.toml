@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "lehtmetall.ee"
-baseurl = "http://example.org/"
+baseurl = "http://lehtmetall.ee/"
 theme = "prologue"
 
 [params]
