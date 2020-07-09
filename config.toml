@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "lehtmetall.ee"
-baseurl = "http://lehtmetall.ee/"
+baseurl = "http://angry-visvesvaraya-a81629.netlify.app/"
 theme = "prologue"
 
 [params]
